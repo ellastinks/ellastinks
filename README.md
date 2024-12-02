@@ -6,7 +6,7 @@ hiiiiiiiiii
  
 ## 🎓 Education
  
-- 𝓯𝓻𝓮𝓪𝓴𝔂 university
+-
  
 ## 🌟 Key Achievements
  
@@ -14,7 +14,7 @@ hiiiiiiiiii
 
  
 ### 🏆 Awards and Recognitions
-- my mum said im her favourite
+
   
 ### 💼 Professional Experience
 - 
